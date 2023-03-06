@@ -67,7 +67,8 @@ Here are some ideas to get you started:
 <td>
 </table>
   
-
+![](https://raw.githubusercontent.com/kkkkkong/kkkkkong/main/assets/github-contribution-grid-snake.svg)
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/kkkkkong/kkkkkong/assets/github-contribution-grid-snake.svg" /></div>
   <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
   <tr>
