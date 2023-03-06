@@ -32,3 +32,4 @@ jobs:
           author_name: kong
           author_email: 376634352@qq.com
           force: true
+          github_token: ${{ secrets.ACCESS_TOKEN }}
