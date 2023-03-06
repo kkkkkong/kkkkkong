@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println!(%22Hello%2C%20World%22);&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<p>&emsp;&emsp;大家好，我是孔。</p>
+<p>&emsp;&emsp;大家好，我是孔维超。</p>
 <p>&emsp;&emsp;目前就读于华南理工大学软件工程学院。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
