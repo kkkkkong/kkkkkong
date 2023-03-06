@@ -63,11 +63,11 @@ Here are some ideas to get you started:
 <td>
 </table>
   
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图，白色背景 -->
 ![](https://raw.githubusercontent.com/kkkkkong/kkkkkong/main/dist/github-snake.svg)
   
   
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/kkkkkong/kkkkkong/assets/github-contribution-grid-snake.gif" /></div>
+<!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/kkkkkong/kkkkkong/assets/github-contribution-grid-snake.gif" /></div> -->
   
   
   <!-- GitHub Activity Graph GitHub 活动图 -->
