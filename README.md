@@ -68,11 +68,15 @@ Here are some ideas to get you started:
 </table>
   
 ![](https://raw.githubusercontent.com/kkkkkong/kkkkkong/main/assets/github-contribution-grid-snake.svg)
+  
+  
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/kkkkkong/kkkkkong/assets/github-contribution-grid-snake.svg" /></div>
+  
+  
   <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=kkkkkong&bg_color=00000000&hide_border=true" alt="Activity"/></td>
+    <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=kkkkkong&theme=xcode&bg_color=00000000&hide_border=true" alt="Activity"/></td>
   </tr>
 </table>
 
