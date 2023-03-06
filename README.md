@@ -38,10 +38,6 @@ Here are some ideas to get you started:
     <!-- visitor statistics logo 访客数统计徽标 -->
     <img src="https://visitor-badge.glitch.me/badge?page_id=kkkkkong" alt="访客统计" />
   </div>
-
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <img src="https://cdn.jsdelivr.net/gh/kkkkkong/kkkkkong/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-
 </div>
 
 
@@ -67,6 +63,7 @@ Here are some ideas to get you started:
 <td>
 </table>
   
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 ![](https://raw.githubusercontent.com/kkkkkong/kkkkkong/main/assets/github-contribution-grid-snake.svg)
   
   
