@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/kkkkkong/kkkkkong/main/assets/github-contribution-grid-snake.svg)
   
   
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/kkkkkong/kkkkkong/assets/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/kkkkkong/kkkkkong/assets/github-contribution-grid-snake.gif" /></div>
   
   
   <!-- GitHub Activity Graph GitHub 活动图 -->
