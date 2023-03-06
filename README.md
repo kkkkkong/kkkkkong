@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 </table>
   
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-![](https://raw.githubusercontent.com/kkkkkong/kkkkkong/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/kkkkkong/kkkkkong/main/dist/github-snake.svg)
   
   
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/kkkkkong/kkkkkong/assets/github-contribution-grid-snake.gif" /></div>
