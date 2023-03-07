@@ -46,7 +46,7 @@
 
 
   <!-- profile logo 个人资料徽标 -->
-  <div align="center">
+  <div align="left">
     <a href="https://kkkkkong.github.io/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://kkkkkong.github.io/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://kkkkkong.github.io/"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
@@ -58,13 +58,6 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=kkkkkong" alt="访客统计" />
   </div>
 </div>
-<br/>
-
-
-
-<br/>  
-
-<br/>
 <br/>
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/kkkkkong/count.svg)th visitor
