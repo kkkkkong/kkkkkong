@@ -35,8 +35,8 @@
 
 # About My Github
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkkkong&layout=compact&langs_count=8&theme=cobalt)](https://github.com/kkkkkong/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=kkkkkong&show_icons=true&theme=cobalt)](https://github.com/kkkkkong/github-readme-stats)-->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkkkong&layout=compact&langs_count=8&theme=cobalt)](https://github.com/kkkkkong/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=kkkkkong&show_icons=true&theme=cobalt)](https://github.com/kkkkkong/github-readme-stats) -->
 
 <div align="left">
 <img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkkkkong&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=cobalt" align="center" />
@@ -65,14 +65,14 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/kkkkkong/count.svg
 <br/>
 <br/>
 
-
+# 代码贡献
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图，白色背景 -->
 ![](https://raw.githubusercontent.com/kkkkkong/kkkkkong/main/dist/github-snake.svg)
   
   
 <!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/kkkkkong/kkkkkong/assets/github-contribution-grid-snake.gif" /></div> -->
   
-  
+# 近期活跃
   <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
   <tr>
