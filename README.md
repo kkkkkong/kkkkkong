@@ -39,19 +39,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=kkkkkong&show_icons=true&theme=cobalt)](https://github.com/kkkkkong/github-readme-stats)-->
 
 <div align="left">
-<div align="left">
-<img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkkkkong&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=cobalt" align="center" />
-</div>
+<img height='180' width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkkkkong&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=cobalt" align="center" />
 
-<!--
-<div align="right">
 <img height='180' src="https://github-readme-stats.vercel.app/api?username=kkkkkong&show_icons=true&theme=cobalt" align="center" />
 </div>  
--->
 
 
   <!-- profile logo 个人资料徽标 -->
-  <div align="left">
+  <div align="center">
     <a href="https://kkkkkong.github.io/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://kkkkkong.github.io/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://kkkkkong.github.io/"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
