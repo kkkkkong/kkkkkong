@@ -4,8 +4,8 @@ name: Generate Snake
 
 on:
   schedule:
-    # 每 6 小时，执行一次
-    - cron: "0 */12 * * *"
+    # 每天，执行一次，UTC时间+8=北京时间
+    - cron: "0 16 * * *"
   workflow_dispatch:
 
 jobs:
